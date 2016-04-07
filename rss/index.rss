@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ronin</title><description>Day-to-day stories of a journey to code samurai.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Wed, 06 Apr 2016 21:22:11 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Why I Set Out to Learn Ruby and Came Out Coding JavaScript</title><description>&lt;h2 id="javascripteatworld"&gt;JavaScript Eat World&lt;/h2&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Ronin</title><description>Day-to-day stories of a journey to code samurai.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 07 Apr 2016 09:17:35 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Why I Set Out to Learn Ruby and Came Out Coding JavaScript</title><description>&lt;h2 id="javascripteatworld"&gt;JavaScript Eat World&lt;/h2&gt;
 
 &lt;p&gt;JavaScript is taking over the internet. Even if you’ve never written a single line of code you’ve probably heard of this mysterious thing that lives in your browser and is only mentioned by people with waxed moustaches and plaid shirts.&lt;/p&gt;
 
@@ -30,9 +30,12 @@
 
 &lt;p&gt;A full-stack language is an entirely new paradigm in the programming world and its long-term viability remains to be proven, as mentioned earlier. Nonetheless, there are some clear benefits to having a full-stack language, the first of which is that developers can reuse their skills up and down the stack. This means tighter integration as developers are more au fait with the stack in its entirety, more reusability and mobility of developers and more standardisation in the industry. &lt;/p&gt;
 
-&lt;p&gt;Moreover, JavaScript lends itself particularly well to certain uses that are becoming more and more common on the web. Two such examples are: &lt;br&gt;
-* Storing data in the same format that you would then use to send the information to the browser (&lt;strong&gt;JSON&lt;/strong&gt;, or JavaScript Object Notation). Remember, your browser already speaks JavaScript.
-* Handling high volumes of simultaneous traffic (&lt;strong&gt;concurrency&lt;/strong&gt;), which is one of the reasons Node.js is being used at companies like Netflix, Uber and PayPal.&lt;/p&gt;
+&lt;p&gt;Moreover, JavaScript lends itself particularly well to certain uses that are becoming more and more common on the web. Two such examples are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Storing data in the same format that you would then use to send the information to the browser (called &lt;strong&gt;JSON&lt;/strong&gt;, or JavaScript Object Notation).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Handling high volumes of &lt;strong&gt;real-time&lt;/strong&gt; traffic, which is one of the reasons Node.js is being used at companies like Netflix, Uber and PayPal.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id="onelanguagetorulethemall"&gt;One Language to Rule Them All&lt;/h2&gt;
 
